@@ -7,28 +7,28 @@ This project is a Python based Password Generator that creates strong and secure
 The application also validates user input and ensures that the password length is at least 4 characters because the uppercase,lowercase,numbers and special character already produces 4 length.
 
 Features
->User-defined password length
->Input validation using try-except
->Includes uppercase letters (A-Z)
->Includes lowercase letters (a-z)
->Includes numbers (0-9)
->Includes special characters
->Guarantees at least one character from each category
->Randomly shuffles characters for better security
+>User-defined password length,
+>Input validation using try-except,
+>Includes uppercase letters (A-Z),
+>Includes lowercase letters (a-z),
+>Includes numbers (0-9),
+>Includes special characters,
+>Guarantees at least one character from each category,
+>Randomly shuffles characters for better security.
 
 Technologies Used
->Python 3
->random module
->string module
+>Python 3,
+>random module,
+>string module.
 
 How It Works
->The user enters the desired password length.
->The program validates the input.
->The program ensures the password contains:
->At least one uppercase letter
->At least one lowercase letter
->At least one digit
->At least one special character
+>The user enters the desired password length,
+>The program validates the input,
+>The program ensures the password contains 
+>At least one uppercase letter,
+>At least one lowercase letter,
+>At least one digit,
+>At least one special character.
 >Remaining characters are selected randomly.
 >The password is shuffled and displayed to the user.
 Example
