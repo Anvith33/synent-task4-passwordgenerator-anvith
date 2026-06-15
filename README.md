@@ -152,4 +152,4 @@ Please enter a valid integer for the password length.
 and prevents the program from crashing.
 
 14. The final result is a strong random password containing uppercase letters, lowercase letters, numbers, and special characters.
->>>>>>> 9a1e353 (added logic to readme file)
+
